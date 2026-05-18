@@ -1,0 +1,1 @@
+javadoc -d docs --add-stylesheet ./docs/custom-doc.css -classpath "./javaparser-core-3.28.1.jar" ASTParser.java
